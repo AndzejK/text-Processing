@@ -1,0 +1,5 @@
+
+Hey, I'm python!
+Open 
+write
+close

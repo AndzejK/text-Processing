@@ -1,0 +1,2 @@
+With this method "with" I dont need to have a close method()
+coz indention does its job, mate!
